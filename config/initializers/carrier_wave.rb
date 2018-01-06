@@ -1,3 +1,5 @@
+require 'fog'
+
 if Rails.env.production?
 
     CarrierWave.configure do |config|
