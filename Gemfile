@@ -16,7 +16,7 @@ gem 'carrierwave'
 
 gem 'mini_magick'
 
-gem 'fog'
+gem 'fog-aws'
 
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
