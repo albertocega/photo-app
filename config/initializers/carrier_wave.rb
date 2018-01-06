@@ -1,4 +1,4 @@
-require 'fog'
+
 
 if Rails.env.production?
 
